@@ -1,28 +1,28 @@
-Data Structures & Algorithms Practice 🚀
+📘 Data Structures and Algorithms Practice
 
-This repository contains my complete journey of learning **Data Structures and Algorithms (DSA)** and solving problems from **LeetCode**.
+This repository contains my complete journey of learning Data Structures and Algorithms (DSA) and solving problems from LeetCode.
 
-📌 What’s Inside
-- Implementation of all core DSA concepts in Java
-- Topic-wise practice (Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, DP, etc.)
-- LeetCode problem solutions with clean and readable code
-- Regular updates as I progress
+📂 What you will find here:
 
-🎯 Goals
-- Build strong problem-solving skills
-- Master DSA for technical interviews
-- Maintain a structured and consistent coding practice
+Implementations of all core DSA concepts in Java
 
-🛠 Language Used
-- Java
+Topic-wise practice such as Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming, etc.
 
-📚 Platforms
-- LeetCode
+Solutions to LeetCode problems with clean and readable code
 
-📈 Progress
-I am continuously adding:
-- New DSA topics
-- Optimized solutions
-- Interview-level problems
+Regular updates as I continue learning and practicing
 
-Stay tuned and feel free to explore! 🌱
+🎯 My Goals:
+
+Build strong problem-solving skills
+
+Master DSA for technical interviews
+
+Maintain a structured and consistent coding practice
+
+💻 Programming Language: Java
+
+🌐 Platform: LeetCode
+
+📈 Progress:
+I will keep adding new topics, optimized solutions, and interview-level problems as I progress.
