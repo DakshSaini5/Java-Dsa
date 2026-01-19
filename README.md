@@ -26,3 +26,11 @@ Maintain a structured and consistent coding practice
 
 📈 Progress:
 I will keep adding new topics, optimized solutions, and interview-level problems as I progress.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
+<!---LeetCode Topics End-->
