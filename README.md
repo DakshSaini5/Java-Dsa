@@ -32,10 +32,15 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
