@@ -32,6 +32,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -58,4 +60,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
