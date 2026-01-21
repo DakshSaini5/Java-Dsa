@@ -25,7 +25,7 @@ class Solution {
                         k++;
                     }
 
-                    break; // stop checking nums2
+                    // break; // stop checking nums2
                 }
             }
         }
