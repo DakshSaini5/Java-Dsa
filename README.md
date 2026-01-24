@@ -40,6 +40,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
