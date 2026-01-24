@@ -37,6 +37,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
@@ -59,6 +60,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -83,4 +85,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
