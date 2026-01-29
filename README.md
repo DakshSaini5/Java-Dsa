@@ -43,6 +43,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/DakshSaini5/Java-Dsa/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
@@ -68,6 +69,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DakshSaini5/Java-Dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -85,6 +87,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
