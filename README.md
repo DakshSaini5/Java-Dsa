@@ -85,6 +85,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
@@ -108,4 +110,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0136-single-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
