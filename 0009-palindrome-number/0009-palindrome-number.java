@@ -1,6 +1,7 @@
 class Solution {
     public boolean isPalindrome(int x) {
         // negative numbers are not palindrome
+
         if (x < 0) {
             return false;
         }
@@ -8,12 +9,12 @@ class Solution {
         int number = x;
         int reverse = 0;
 
-        while (x > 0) {
-            int digit = x % 10;
-            reverse = reverse * 10 + digit;
-            x = x / 10;
-        }
+        while (number > 0) {
+            int digits = number % 10;
+            reverse = reverse * 10 + digits;
+            number = number / 10;
 
-        return number == reverse;
+        }
+        return x == reverse;
     }
 }
