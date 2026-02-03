@@ -34,6 +34,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +94,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Math
