@@ -34,6 +34,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
@@ -97,6 +99,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
