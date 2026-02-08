@@ -32,6 +32,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
