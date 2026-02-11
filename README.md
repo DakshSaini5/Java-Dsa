@@ -38,6 +38,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -144,4 +146,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
