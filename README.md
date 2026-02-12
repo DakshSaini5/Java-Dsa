@@ -33,6 +33,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
@@ -122,6 +123,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0009-palindrome-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DakshSaini5/Java-Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
@@ -150,4 +152,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
