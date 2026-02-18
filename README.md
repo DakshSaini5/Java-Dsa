@@ -33,6 +33,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
@@ -93,6 +94,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
@@ -122,6 +124,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
