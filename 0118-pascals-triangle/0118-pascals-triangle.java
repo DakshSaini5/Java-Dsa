@@ -10,7 +10,7 @@ class Solution {
                 }
                 else{
                     List<Integer> previousRow = result.get(i-1);
-                    int value = previousRow.get(j- 1) + previousRow.get(j);
+                    int value = previousRow.get(j - 1) + previousRow.get(j);
                     currentRow.add(value);
                 }
             }
