@@ -33,6 +33,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
@@ -98,6 +99,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
@@ -179,4 +181,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0054-spiral-matrix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
