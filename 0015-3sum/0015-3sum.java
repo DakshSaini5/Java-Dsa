@@ -8,7 +8,6 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
 
-            // Skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int middle = i + 1;
@@ -25,19 +24,18 @@ class Solution {
                     middle++;
                     end--;
 
-                    // Skip duplicates for middle
                     while (middle < end && nums[middle] == nums[middle - 1]) 
                         middle++;
 
-                    // Skip duplicates for end
+
                     while (middle < end && nums[end] == nums[end + 1]) 
                         end--;
                 }
                 else if (sum < 0) {
-                    middle++;     // Need bigger value
+                    middle++;     
                 }
                 else {
-                    end--;        // Need smaller value
+                    end--;        
                 }
             }
         }
