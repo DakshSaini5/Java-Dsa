@@ -38,6 +38,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0018-4sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
