@@ -55,6 +55,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DakshSaini5/Java-Dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/DakshSaini5/Java-Dsa/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
@@ -131,6 +132,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DakshSaini5/Java-Dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +148,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DakshSaini5/Java-Dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -174,6 +177,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
