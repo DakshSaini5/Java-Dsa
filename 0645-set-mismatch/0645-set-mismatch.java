@@ -11,7 +11,7 @@ class Solution {
         map.put(num, map.getOrDefault(num,0)+1);
      }
 
-     for(int i = 0; i <= nums.length;i++){
+     for(int i = 1; i <= nums.length; i++){
         if(map.getOrDefault(i,0) == 2){
             duplicate = i;
         }
