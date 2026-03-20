@@ -64,6 +64,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/DakshSaini5/Java-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -136,6 +137,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
@@ -151,6 +153,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +172,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0136-single-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
