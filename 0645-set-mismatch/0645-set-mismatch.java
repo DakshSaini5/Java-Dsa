@@ -1,10 +1,10 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
      HashMap <Integer,Integer> map = new HashMap<>();
-    int n = nums.length;
+    int n1 = nums.length;
     int i = 0;
 
-    while(i < n){
+    while(i < n1){
         int CrIndex = nums[i] - 1;
 
         if(nums[i] != nums[CrIndex]){
@@ -17,7 +17,7 @@ class Solution {
         }
     }
 
-    for(i = 0; i < n; i++){
+    for(i = 0; i < n1; i++){
         if(nums[i] != i+1){
             return new int[]{nums[i], i+1};
         }
