@@ -67,6 +67,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
@@ -124,6 +125,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +156,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -201,4 +204,24 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
