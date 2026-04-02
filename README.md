@@ -92,6 +92,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0162-find-peak-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/DakshSaini5/Java-Dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
@@ -238,4 +239,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DakshSaini5/Java-Dsa/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
