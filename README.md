@@ -94,6 +94,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DakshSaini5/Java-Dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/DakshSaini5/Java-Dsa/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -181,6 +182,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0069-sqrtx](https://github.com/DakshSaini5/Java-Dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/DakshSaini5/Java-Dsa/tree/master/0367-valid-perfect-square) |
 ## Design
 |  |
 | ------- |
