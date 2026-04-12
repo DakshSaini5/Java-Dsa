@@ -78,6 +78,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DakshSaini5/Java-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DakshSaini5/Java-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -98,6 +99,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0441-arranging-coins](https://github.com/DakshSaini5/Java-Dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DakshSaini5/Java-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
 | ------- |
