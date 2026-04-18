@@ -73,6 +73,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DakshSaini5/Java-Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -101,6 +102,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0441-arranging-coins](https://github.com/DakshSaini5/Java-Dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DakshSaini5/Java-Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DakshSaini5/Java-Dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DakshSaini5/Java-Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DakshSaini5/Java-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
