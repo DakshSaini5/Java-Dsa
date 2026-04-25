@@ -11,9 +11,9 @@ public int splitArray(int[] nums, int k) {
         int mid = start + (end - start) / 2;
 
         if (canSplit(nums, mid, k)) {
-            end = mid;        // valid → try smaller
+            end = mid;        
         } else {
-            start = mid + 1;  // invalid → increase
+            start = mid + 1; 
         }
     }
 
