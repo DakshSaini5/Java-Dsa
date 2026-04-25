@@ -67,6 +67,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/DakshSaini5/Java-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0278-first-bad-version](https://github.com/DakshSaini5/Java-Dsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DakshSaini5/Java-Dsa/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/DakshSaini5/Java-Dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DakshSaini5/Java-Dsa/tree/master/0704-binary-search) |
@@ -113,6 +115,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0118-pascals-triangle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +127,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DakshSaini5/Java-Dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DakshSaini5/Java-Dsa/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DakshSaini5/Java-Dsa/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -231,6 +235,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
