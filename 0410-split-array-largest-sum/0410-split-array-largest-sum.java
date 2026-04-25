@@ -1,38 +1,36 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
         
-        int low = 0, high = 0;
+        int start = 0, end = 0;
 
-        // define range
         for (int num : nums) {
-            low = Math.max(low, num); // max element
-            high += num;              // total sum
+            start = Math.max(start, num); 
+            end += num;              
         }
 
-        // binary search
-        while (low < high) {
+      while (start < end) {
 
-            int mid = low + (high - low) / 2;
+            int mid = start + (end - start) / 2;
 
             int sum = 0;
-            int parts = 1;
+            int count = 1;
 
             for (int num : nums) {
                 if (sum + num > mid) {
-                    parts++;
+                    count++;
                     sum = num;
                 } else {
                     sum += num;
                 }
             }
 
-            if (parts > k) {
-                low = mid + 1;
+            if (count > k) {
+                start = mid + 1;
             } else {
-                high = mid;
+                end = mid;
             }
         }
 
-        return low;
+        return start;
     }
 }
