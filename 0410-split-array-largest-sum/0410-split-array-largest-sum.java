@@ -1,39 +1,25 @@
 class Solution {
-public int splitArray(int[] nums, int k) {
-    int start = 0, end = 0;
+    public int splitArray(int[] nums, int k) {
+        int low = Arrays.stream(nums).max().getAsInt();
+        int high = Arrays.stream(nums).sum();
 
-    for (int num : nums) {
-        start = Math.max(start, num); 
-        end += num;              
-    }
+        while(low < high){
+            int mid = low +(high - low)/2;
+            int sum = 0;
+            int splits = 1;
 
-    while (start < end) {
-        int mid = start + (end - start) / 2;
-
-        if (canSplit(nums, mid, k)) {
-            end = mid;        
-        } else {
-            start = mid + 1; 
+            for(int n : nums){
+                if(sum + n > mid){
+                    splits++;
+                    sum = n;
+                }
+                else{
+                    sum = sum + n;
+                }
+            }   
+            if(splits <= k) high = mid;
+            else low = mid + 1;    
         }
+        return low;
     }
-
-    return start;
-}
-
-private boolean canSplit(int[] nums, int mid, int k) {
-    int sum = 0;
-    int count = 1;
-
-    for (int num : nums) {
-        if (sum + num > mid) {
-            count++;
-            sum = num;
-        } else {
-            sum += num;
-        }
-    }
-
-    return count <= k;
-}
-
 }
