@@ -86,6 +86,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [1480-running-sum-of-1d-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DakshSaini5/Java-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DakshSaini5/Java-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -114,6 +115,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DakshSaini5/Java-Dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DakshSaini5/Java-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +241,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0073-set-matrix-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
