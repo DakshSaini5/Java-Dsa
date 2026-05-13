@@ -89,6 +89,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [1901-find-a-peak-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DakshSaini5/Java-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/DakshSaini5/Java-Dsa/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0074-search-a-2d-matrix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/DakshSaini5/Java-Dsa/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
 | ------- |
