@@ -207,6 +207,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DakshSaini5/Java-Dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DakshSaini5/Java-Dsa/tree/master/0441-arranging-coins) |
+| [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -221,6 +222,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +251,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
