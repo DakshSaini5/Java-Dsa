@@ -154,6 +154,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DakshSaini5/Java-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -222,6 +223,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
