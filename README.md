@@ -223,6 +223,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/DakshSaini5/Java-Dsa/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/DakshSaini5/Java-Dsa/tree/master/1108-defanging-an-ip-address) |
