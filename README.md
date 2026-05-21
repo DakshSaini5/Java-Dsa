@@ -35,6 +35,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0001-two-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0027-remove-element) |
@@ -225,6 +226,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/DakshSaini5/Java-Dsa/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
@@ -285,4 +287,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DakshSaini5/Java-Dsa/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
