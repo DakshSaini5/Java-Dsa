@@ -224,6 +224,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
