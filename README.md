@@ -174,6 +174,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0073-set-matrix-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/DakshSaini5/Java-Dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DakshSaini5/Java-Dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
@@ -228,6 +229,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/DakshSaini5/Java-Dsa/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/DakshSaini5/Java-Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
