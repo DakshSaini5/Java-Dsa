@@ -231,6 +231,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/DakshSaini5/Java-Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/DakshSaini5/Java-Dsa/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -291,4 +292,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
