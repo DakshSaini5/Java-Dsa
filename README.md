@@ -236,6 +236,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/DakshSaini5/Java-Dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/DakshSaini5/Java-Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/DakshSaini5/Java-Dsa/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -300,4 +301,8 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/DakshSaini5/Java-Dsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
