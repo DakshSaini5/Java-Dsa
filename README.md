@@ -181,6 +181,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/DakshSaini5/Java-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -199,6 +200,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/DakshSaini5/Java-Dsa/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 ## Math
@@ -234,6 +236,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0205-isomorphic-strings](https://github.com/DakshSaini5/Java-Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DakshSaini5/Java-Dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/DakshSaini5/Java-Dsa/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DakshSaini5/Java-Dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -245,6 +248,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +276,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -280,6 +285,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DakshSaini5/Java-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
