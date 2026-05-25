@@ -10,10 +10,12 @@ class Solution {
         StringBuilder st = new StringBuilder();
 
         for(char ch : lst){
-            int freq = mp.get(ch);
+            int freq = 0;
+            freq = mp.get(ch);
 
-            while(freq-- > 0){
+            while(freq > 0){
                 st.append(ch);
+                freq--;
             }
         }
         return st.toString();
