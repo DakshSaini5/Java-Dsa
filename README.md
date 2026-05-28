@@ -121,6 +121,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DakshSaini5/Java-Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DakshSaini5/Java-Dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DakshSaini5/Java-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DakshSaini5/Java-Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DakshSaini5/Java-Dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DakshSaini5/Java-Dsa/tree/master/0018-4sum) |
@@ -229,6 +231,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DakshSaini5/Java-Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DakshSaini5/Java-Dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/DakshSaini5/Java-Dsa/tree/master/0058-length-of-last-word) |
