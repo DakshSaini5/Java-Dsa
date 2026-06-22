@@ -314,4 +314,12 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DakshSaini5/Java-Dsa/tree/master/1021-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/DakshSaini5/Java-Dsa/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/DakshSaini5/Java-Dsa/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
