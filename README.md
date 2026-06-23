@@ -160,6 +160,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DakshSaini5/Java-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DakshSaini5/Java-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -319,6 +320,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/DakshSaini5/Java-Dsa/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
