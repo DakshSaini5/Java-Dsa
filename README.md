@@ -157,6 +157,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DakshSaini5/Java-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DakshSaini5/Java-Dsa/tree/master/0344-reverse-string) |
@@ -179,6 +180,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0073-set-matrix-zeroes](https://github.com/DakshSaini5/Java-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DakshSaini5/Java-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DakshSaini5/Java-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DakshSaini5/Java-Dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DakshSaini5/Java-Dsa/tree/master/0217-contains-duplicate) |
@@ -322,6 +324,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DakshSaini5/Java-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DakshSaini5/Java-Dsa/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
