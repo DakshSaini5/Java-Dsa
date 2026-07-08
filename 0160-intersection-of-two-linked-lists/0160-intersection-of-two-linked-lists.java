@@ -44,7 +44,6 @@ public class Solution {
             for (int i = 0; i < diff; i++) {
                 b = b.next;
             }
-
         }
 
         while( a != null && b != null){
