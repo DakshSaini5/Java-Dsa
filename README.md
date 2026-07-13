@@ -324,6 +324,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshSaini5/Java-Dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DakshSaini5/Java-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -334,6 +335,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshSaini5/Java-Dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/DakshSaini5/Java-Dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
