@@ -21,7 +21,7 @@ class Solution {
             ListNode first = prev.next;
             ListNode sec = prev.next.next;
 
-            prev.next = first.next;
+            prev.next = sec;
             first.next = sec.next;
             sec.next = first;
             prev = first;
