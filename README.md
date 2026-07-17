@@ -155,6 +155,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | [0027-remove-element](https://github.com/DakshSaini5/Java-Dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DakshSaini5/Java-Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DakshSaini5/Java-Dsa/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/DakshSaini5/Java-Dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -331,6 +332,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshSaini5/Java-Dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/DakshSaini5/Java-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DakshSaini5/Java-Dsa/tree/master/0142-linked-list-cycle-ii) |
