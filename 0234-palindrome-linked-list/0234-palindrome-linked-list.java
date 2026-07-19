@@ -10,8 +10,6 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null) return true;
-
         ListNode slow = head;
         ListNode fast = head;
 
@@ -19,29 +17,27 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+
         ListNode prev = null;
         ListNode curr = slow;
 
         while(curr != null){
-            ListNode nextNode = curr.next;
-
-            curr.next= prev;
+            ListNode temp = curr.next;
+            curr.next = prev;
             prev = curr;
-            curr = nextNode;
+            curr = temp;
         }
-        ListNode left = head;
-        ListNode right = prev; // prev is now the head of the reversed half
 
-        while (right != null) {
-            // If values don't match, it's not a palindrome!
-            if (left.val != right.val) {
+        ListNode first = head;
+        ListNode sec = prev;
+
+        while(sec != null){
+            if(first.val != sec.val){
                 return false;
             }
-            // Move both pointers forward to check the next pair
-            left = left.next;
-            right = right.next;
+            first = first.next;
+            sec = sec.next;
         }
-
         return true;
     }
-}
+}    
