@@ -223,6 +223,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DakshSaini5/Java-Dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DakshSaini5/Java-Dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DakshSaini5/Java-Dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DakshSaini5/Java-Dsa/tree/master/0048-rotate-image) |
@@ -335,6 +336,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DakshSaini5/Java-Dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshSaini5/Java-Dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DakshSaini5/Java-Dsa/tree/master/0025-reverse-nodes-in-k-group) |
@@ -355,6 +357,7 @@ I will keep adding new topics, optimized solutions, and interview-level problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DakshSaini5/Java-Dsa/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/DakshSaini5/Java-Dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DakshSaini5/Java-Dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/DakshSaini5/Java-Dsa/tree/master/0143-reorder-list) |
